@@ -355,10 +355,8 @@ body {
         opacity: 0;
     }
 
-      30%{
-        opacity: 1;
-    }
-      70%{
+   
+      50%{
         opacity: 1;
     }
      100%{
@@ -3310,3 +3308,4 @@ body.dark-mode .mango{
 .display-none {
   display: none;
 }
+
