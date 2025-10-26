@@ -2832,7 +2832,7 @@ body.dark-mode .mango{
 
     
     .custom-file button, .btn-verde{
-        font-size: 40em;
+        font-size: 20px;
         border-radius: 10px;
         margin: 15px 0;
     }
@@ -3352,3 +3352,4 @@ body.dark-mode .mango{
 .display-none {
   display: none;
 }
+
