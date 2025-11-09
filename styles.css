@@ -3106,15 +3106,11 @@ body.dark-mode .mango{
   background: linear-gradient(0deg, var(--buscador-color) 0, var(--buscador-color) 40%, var(--btn-celeste-color) 90%);
 }
 
-.back-to-top-icon {
-  width: 2rem;
-  height: 2rem;
-}
 
 .back-to-top a img{
   
-  width: 20px;
-  height: 20px;
+  width: 27px;
+  height: 27px;
 }
 
 
@@ -3204,6 +3200,7 @@ body.dark-mode .mango{
 }
 
 /* Media Queries */
+
 @media (min-width: 768px) {
 
   
@@ -3214,12 +3211,13 @@ body.dark-mode .mango{
 }
 
  .back-to-top a img{
-  width: 30px;
-  height: 30px;
+  width: 45px;
+  height: 45px;
  }
 
  
 }
+
 
 
 
@@ -3317,3 +3315,4 @@ body.dark-mode .mango{
 .display-none {
   display: none;
 }
+
